@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/About.png</file>
+        <file>images/bg.png</file>
+        <file>images/Exit.png</file>
+        <file>images/Film.png</file>
+        <file>images/FullScreen.png</file>
+        <file>images/New.png</file>
+        <file>images/Options.png</file>
+        <file>images/Pause.png</file>
+        <file>images/Photo.png</file>
+        <file>images/Refresh.png</file>
+        <file>images/Start.png</file>
+        <file>images/StopRecord.png</file>
+        <file>images/Video.png</file>
+        <file>images/bg2.PNG</file>
+    </qresource>
+</RCC>
